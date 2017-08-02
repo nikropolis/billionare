@@ -1,3 +1,2 @@
 # billionare
-=WP=
--woocommerce-
+WP-woocommerce-ajax-adds
